@@ -1,1 +1,1 @@
-alert("This is my fav website")
+alert("I hope this website will help you")
