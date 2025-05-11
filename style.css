@@ -4,3 +4,16 @@ body {
     /* background: rgba(0,0,0,0.7) url(../top.jpg); */
     background-size: cover;
 }
+
+
+td{
+    border: solid gray;
+}
+
+caption{
+    border: solid gray
+}
+
+th{
+    border: solid gray;
+}
